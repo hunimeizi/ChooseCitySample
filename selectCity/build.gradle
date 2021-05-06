@@ -56,5 +56,5 @@ ext {
     uploadSources = false
 
     PROJECT_NAME = 'https://github.com/hunimeizi/ChooseCitySample'
-
 }
+apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"

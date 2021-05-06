@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_search_box">请输入城市名或拼音全拼</string>
+    <string name="nothing_found">没有搜索结果~</string>
+
+    <string name="hot_city">热门城市</string>
+    <string name="location">定位</string>
+    <string name="hot">热门</string>
+    <string name="beijing">北京</string>
+    <string name="shanghai">上海</string>
+    <string name="guangzhou">广州</string>
+    <string name="shenzhen">深圳</string>
+    <string name="hangzhou">杭州</string>
+    <string name="nanjing">南京</string>
+    <string name="tianjin">天津</string>
+    <string name="wuhan">武汉</string>
+    <string name="chongqing">重庆</string>
+    <string name="located_city">定位城市</string>
+    <string name="locating">正在定位…</string>
+    <string name="located_failed">定位失败</string>
+</resources>

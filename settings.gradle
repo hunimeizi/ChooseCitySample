@@ -1,0 +1,3 @@
+include ':selectcity'
+include ':app'
+rootProject.name = "ChooseCitySample"
